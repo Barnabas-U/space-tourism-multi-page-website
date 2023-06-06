@@ -62,7 +62,7 @@ I learnt JQuery on w3schools.com for this project.
 ## Author
 
 - Website - [Barnabas Ukagha](https://euphonious-torrone-dbf56e.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Barnabas-U](https://www.frontendmentor.io/profile/Barnabas-U)
 - Twitter - [@iammcbarna](https://twitter.com/iammcbarna)
 
 ## Acknowledgments
